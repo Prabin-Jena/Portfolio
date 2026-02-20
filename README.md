@@ -4,8 +4,8 @@ Welcome to my portfolio repository! Here you'll find configuration files and cod
 
 - **Description:** Config files for my GitHub profile.
 - **Languages Used:**  
-  - CSS: 56.7%  
-  - HTML: 43.3%
+  - CSS: 54.8%  
+  - HTML: 45.2%
 
 ### 🚀 Featured Projects
 
