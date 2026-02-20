@@ -1,4 +1,4 @@
-## 🌐 Prabin's WebDev Portfolio
+<img width="1905" height="895" alt="image" src="https://github.com/user-attachments/assets/5083b498-a0bf-4c06-bd7c-9128f0af4672" />## 🌐 Prabin's WebDev Portfolio
 
 Welcome to my portfolio repository! Here you'll find configuration files and code samples that showcase my web development skills, primarily in **CSS** and **HTML**.
 
@@ -28,6 +28,7 @@ Welcome to my portfolio repository! Here you'll find configuration files and cod
 
 - GitHub: [Prabin Jena](https://github.com/Prabin-Jena)
 - Email: prabinjena15@gmail.com
-- Portfolio: https://sibunjena.github.io/WebDev/
+- Portfolio: https://github.com/Prabin-Jena/Portfolio
+
 
 Feel free to explore the code and reach out for collaboration or feedback!
